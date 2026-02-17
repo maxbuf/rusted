@@ -26,13 +26,14 @@
 ---
 
 - When in doubt: "Rust wants to minimize unexpected updates to data"
-- [https://without.boats/blog/references-are-like-jumps](https://without.boats/blog/references-are-like-jumps)
-
-## Goal of these systems
-
-- 
 
 ## Ownership
+
+- Goal: limit ways you can reference and change data
+- Limitation reduces the number of bugs, makes code easier to reason about
+- [https://without.boats/blog/references-are-like-jumps](https://without.boats/blog/references-are-like-jumps)
+
+---
 
 - 
 
